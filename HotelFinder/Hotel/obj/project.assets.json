@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serap\\Desktop\\HotelFinder\\HotelFinder\\Hotel\\HotelFinder.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\serap\\OneDrive\\Masaüstü\\HotelFinder\\HotelFinder\\Hotel\\HotelFinder.Entities.csproj",
       "projectName": "HotelFinder.Entities",
-      "projectPath": "C:\\Users\\serap\\Desktop\\HotelFinder\\HotelFinder\\Hotel\\HotelFinder.Entities.csproj",
+      "projectPath": "C:\\Users\\serap\\OneDrive\\Masaüstü\\HotelFinder\\HotelFinder\\Hotel\\HotelFinder.Entities.csproj",
       "packagesPath": "C:\\Users\\serap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serap\\Desktop\\HotelFinder\\HotelFinder\\Hotel\\obj\\",
+      "outputPath": "C:\\Users\\serap\\OneDrive\\Masaüstü\\HotelFinder\\HotelFinder\\Hotel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
