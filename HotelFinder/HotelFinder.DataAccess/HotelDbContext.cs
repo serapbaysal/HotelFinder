@@ -10,7 +10,7 @@ namespace HotelFinder.DataAccess
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("");
+            optionsBuilder.UseSqlServer(" ");
         }
     }
 }
